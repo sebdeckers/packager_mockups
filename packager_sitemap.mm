@@ -69,6 +69,20 @@
 </node>
 <node CREATED="1279737391718" ID="Freemind_Link_1429942508" MODIFIED="1279737395938" TEXT="Enter password"/>
 </node>
+<node CREATED="1279748589797" ID="Freemind_Link_1388466505" MODIFIED="1279748593921" TEXT="Password Reset">
+<node CREATED="1279749215597" ID="Freemind_Link_1698352332" MODIFIED="1279749320717" TEXT="Form: Enter email address to send reset email">
+<icon BUILTIN="pencil"/>
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1279749263021" ID="Freemind_Link_558717512" MODIFIED="1279749320719" TEXT="Notification: Password reset email has been sent">
+<icon BUILTIN="pencil"/>
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1279749298846" ID="Freemind_Link_1368739472" MODIFIED="1279749320721" TEXT="Form: Enter new password">
+<icon BUILTIN="pencil"/>
+<icon BUILTIN="button_cancel"/>
+</node>
+</node>
 </node>
 <node CREATED="1279729077810" ID="Freemind_Link_69777233" MODIFIED="1279737350794" POSITION="right" TEXT="User Area" VSHIFT="25">
 <font NAME="SansSerif" SIZE="12"/>
@@ -159,8 +173,9 @@
 <node CREATED="1279736967600" ID="Freemind_Link_1606144006" MODIFIED="1279737011427" TEXT="Pie chart of software versions in use"/>
 <node CREATED="1279736978655" ID="Freemind_Link_1022392794" MODIFIED="1279737015411" TEXT="Pie chart of update track usage distribution"/>
 </node>
-<node CREATED="1279729235179" ID="Freemind_Link_312049927" MODIFIED="1279736083597" TEXT="Subscription">
+<node CREATED="1279729235179" ID="Freemind_Link_312049927" MODIFIED="1279747573109" TEXT="Subscription">
 <font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1279747530590" ID="Freemind_Link_473824915" MODIFIED="1279747566683" TEXT="Subscription Plan">
 <icon BUILTIN="pencil"/>
 <node CREATED="1279737165255" ID="Freemind_Link_720306185" MODIFIED="1279737193148" TEXT="Plan comparison table with &quot;Change Plan&quot; buttons">
 <node CREATED="1279729583107" ID="Freemind_Link_874232599" MODIFIED="1279737210171" TEXT="Payment (external)">
@@ -170,11 +185,17 @@
 </node>
 <node CREATED="1279737216863" ID="Freemind_Link_367092901" MODIFIED="1279737240730" TEXT="Cancel subscription"/>
 </node>
-<node CREATED="1279737274926" ID="Freemind_Link_1560381540" MODIFIED="1279737437921" TEXT="Rename Brand">
+<node CREATED="1279747582877" ID="Freemind_Link_35502428" MODIFIED="1279747613149" TEXT="Brand Information">
 <icon BUILTIN="pencil"/>
 <icon BUILTIN="button_cancel"/>
-<node CREATED="1279737286846" ID="Freemind_Link_468057538" MODIFIED="1279737315178" TEXT="Accessed from pulldown menu or link next to brand name in header"/>
-<node CREATED="1279737316095" ID="Freemind_Link_962490263" MODIFIED="1279737329130" TEXT="Check if name is already in use"/>
+<node CREATED="1279747591581" ID="Freemind_Link_598531410" MODIFIED="1279747597698" TEXT="Edit brand name"/>
+<node CREATED="1279747598413" ID="Freemind_Link_878083502" MODIFIED="1279747601865" TEXT="Edit brand logo"/>
+</node>
+<node CREATED="1279748487485" ID="Freemind_Link_1548330907" MODIFIED="1279748521820" TEXT="Goodbye">
+<icon BUILTIN="pencil"/>
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1279748494341" ID="Freemind_Link_1554089456" MODIFIED="1279748516001" TEXT="Shown when unsubscribing"/>
+</node>
 </node>
 <node CREATED="1279737354974" ID="Freemind_Link_1500883774" MODIFIED="1279737437919" TEXT="Account details">
 <icon BUILTIN="pencil"/>

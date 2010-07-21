@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" measuredW="1184" measuredH="852" mockupW="1109" mockupH="835">
+<mockup version="1.0" skin="sketch" measuredW="1184" measuredH="862" mockupW="1109" mockupH="845">
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::TabBar" x="65" y="141" w="1109" h="34" measuredW="462" measuredH="100" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
@@ -27,11 +27,6 @@
         <text>Help</text>
       </controlProperties>
     </control>
-    <control controlID="253" controlTypeID="com.balsamiq.mockups::Image" x="85" y="69" w="55" h="53" measuredW="77" measuredH="79" zOrder="5" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text/>
-      </controlProperties>
-    </control>
     <control controlID="254" controlTypeID="com.balsamiq.mockups::SubTitle" x="157" y="78" w="-1" h="-1" measuredW="217" measuredH="40" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Goliath%20Messenger</text>
@@ -42,55 +37,66 @@
         <icon>DownTriangleIcon%7Cxsmall</icon>
       </controlProperties>
     </control>
-    <control controlID="320" controlTypeID="com.balsamiq.mockups::Paragraph" x="85" y="736" w="1089" h="64" measuredW="200" measuredH="140" zOrder="16" locked="false" isInGroup="-1">
+    <control controlID="320" controlTypeID="com.balsamiq.mockups::Paragraph" x="85" y="746" w="1089" h="64" measuredW="200" measuredH="140" zOrder="16" locked="false" isInGroup="-1">
       <controlProperties>
         <text>To%20end%20your%20subscription%20press%20the%20button%20below.%20User%20access%20to%20your%20branded%20IM%20client%20will%20not%20be%20affected%3A%20the%20application%20will%20not%20be%20automatically%20uninstalled%2C%20expire%2C%20or%20cease%20to%20work.%20You%20will%20simply%20no%20longer%20be%20able%20to%20build%20new%20versions%2C%20receive%20synchronized%20updates%2C%20or%20use%20any%20other%20features%20of%20Pandion%20Packager.%20Of%20course%20you%20are%20welcome%20to%20sign%20up%20again%20at%20any%20time%20and%20continue%20to%20manage%20your%20branded%20IM%20client.</text>
       </controlProperties>
     </control>
-    <control controlID="322" controlTypeID="com.balsamiq.mockups::Button" x="85" y="814" w="-1" h="-1" measuredW="279" measuredH="28" zOrder="17" locked="false" isInGroup="-1">
+    <control controlID="322" controlTypeID="com.balsamiq.mockups::Button" x="85" y="824" w="-1" h="-1" measuredW="279" measuredH="28" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Cancel%20%22Goliath%20Messenger%22%20Subscription</text>
       </controlProperties>
     </control>
-    <control controlID="300" controlTypeID="com.balsamiq.mockups::DataGrid" x="85" y="254" w="860" h="368" measuredW="533" measuredH="368" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="323" controlTypeID="com.balsamiq.mockups::LinkBar" x="85" y="185" w="-1" h="-1" measuredW="237" measuredH="25" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Brand%20Information%2C%20Plans%20%26%20Pricing</text>
+        <selectedIndex>1</selectedIndex>
+      </controlProperties>
+    </control>
+    <control controlID="300" controlTypeID="com.balsamiq.mockups::DataGrid" x="85" y="268" w="860" h="368" measuredW="533" measuredH="368" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%2C%20Regular%2C%20Plus%2C%20Premium%2C%20Max%0AOpen%20source%20%26%20free%20software%2C%20%5Bx%5D%2C%20%5Bx%5D%2C%20%5Bx%5D%2C%20%5Bx%5D%0AUnlimited%20users%2C%20%5Bx%5D%2C%20%5Bx%5D%2C%20%5Bx%5D%2C%20%5Bx%5D%0ABranded%20IM%20client%20based%20on%20Pandion%20IM%2C%20%2C%20%5Bx%5D%2C%20%5Bx%5D%2C%20%5Bx%5D%0ACustomize%20application%20settings%2C%20%2C%20%5Bx%5D%2C%20%5Bx%5D%2C%20%5Bx%5D%0ACustomize%20installer%20behavior%2C%20%2C%20%5Bx%5D%2C%20%5Bx%5D%2C%20%5Bx%5D%0AConvenient%20automated%20builds%2C%20%2C%20%5Bx%5D%2C%20%5Bx%5D%2C%20%5Bx%5D%0AEasily%20manage%20software%20updates%2C%20%2C%20%2C%20%5Bx%5D%2C%20%5Bx%5D%0ASynchronization%20with%20Pandion%20IM%20releases%2C%20%2C%20%2C%20%5Bx%5D%2C%20%5Bx%5D%0AManage%20available%20Extras%2C%20%2C%20%2C%20%2C%20%5Bx%5D%0AUsage%20statistics%2C%20%2C%20%2C%20%2C%20%5Bx%5D%0A%2C%20Free%2C%20%2469%5Cr/month%2C%20%2489%5Cr/month%2C%20%24119%5Cr/month</text>
         <selectedIndex>-1</selectedIndex>
       </controlProperties>
     </control>
-    <control controlID="301" controlTypeID="com.balsamiq.mockups::Canvas" x="710" y="249" w="105" h="423" measuredW="100" measuredH="70" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="301" controlTypeID="com.balsamiq.mockups::Canvas" x="710" y="263" w="105" h="423" measuredW="100" measuredH="70" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>0.25</backgroundAlpha>
         <color>16777062</color>
       </controlProperties>
     </control>
-    <control controlID="312" controlTypeID="com.balsamiq.mockups::Link" x="539" y="631" w="-1" h="-1" measuredW="60" measuredH="25" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="312" controlTypeID="com.balsamiq.mockups::Link" x="539" y="645" w="-1" h="-1" measuredW="60" measuredH="25" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Download</text>
       </controlProperties>
     </control>
-    <control controlID="314" controlTypeID="com.balsamiq.mockups::Button" x="824" y="631" w="88" h="28" measuredW="96" measuredH="28" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="314" controlTypeID="com.balsamiq.mockups::Button" x="824" y="645" w="88" h="28" measuredW="96" measuredH="28" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Change%20Plan</text>
       </controlProperties>
     </control>
-    <control controlID="315" controlTypeID="com.balsamiq.mockups::Button" x="716" y="631" w="88" h="28" measuredW="94" measuredH="28" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="315" controlTypeID="com.balsamiq.mockups::Button" x="716" y="645" w="88" h="28" measuredW="94" measuredH="28" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Active%20Plan</text>
         <state>disabled</state>
       </controlProperties>
     </control>
-    <control controlID="316" controlTypeID="com.balsamiq.mockups::Button" x="620" y="631" w="88" h="28" measuredW="96" measuredH="28" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="316" controlTypeID="com.balsamiq.mockups::Button" x="620" y="645" w="88" h="28" measuredW="96" measuredH="28" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Change%20Plan</text>
       </controlProperties>
     </control>
-    <control controlID="318" controlTypeID="com.balsamiq.mockups::SubTitle" x="85" y="200" w="-1" h="-1" measuredW="173" measuredH="40" zOrder="14" locked="false" isInGroup="-1">
+    <control controlID="253" controlTypeID="com.balsamiq.mockups::Image" x="85" y="69" w="55" h="53" measuredW="77" measuredH="79" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="318" controlTypeID="com.balsamiq.mockups::SubTitle" x="85" y="224" w="-1" h="-1" measuredW="173" measuredH="40" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Plans%20%26%20Pricing</text>
       </controlProperties>
     </control>
-    <control controlID="319" controlTypeID="com.balsamiq.mockups::SubTitle" x="85" y="692" w="-1" h="-1" measuredW="147" measuredH="40" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="319" controlTypeID="com.balsamiq.mockups::SubTitle" x="85" y="702" w="-1" h="-1" measuredW="147" measuredH="40" zOrder="15" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Unsubscribe</text>
       </controlProperties>
