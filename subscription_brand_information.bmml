@@ -1,0 +1,93 @@
+<mockup version="1.0" skin="sketch" measuredW="1184" measuredH="615" mockupW="1109" mockupH="598">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TabBar" x="65" y="141" w="1109" h="34" measuredW="462" measuredH="100" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Dashboard%2C%20Appcasting%2C%20Extras%2C%20Statistics%2C%20Subscription</text>
+        <borderStyle>none</borderStyle>
+        <selectedIndex>4</selectedIndex>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="85" y="7" w="-1" h="-1" measuredW="334" measuredH="62" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pandion%20Packager</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="1044" y="22" w="-1" h="-1" measuredW="110" measuredH="25" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Hello%20*Jim%20Raynor*</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Link" x="1058" y="43" w="-1" h="-1" measuredW="61" measuredH="25" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sign%20Out</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Link" x="1123" y="43" w="-1" h="-1" measuredW="34" measuredH="25" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Help</text>
+      </controlProperties>
+    </control>
+    <control controlID="325" controlTypeID="com.balsamiq.mockups::TextInput" x="85" y="340" w="460" h="-1" measuredW="127" measuredH="29" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Goliath%20Messenger</text>
+      </controlProperties>
+    </control>
+    <control controlID="326" controlTypeID="com.balsamiq.mockups::Button" x="560" y="341" w="-1" h="-1" measuredW="54" measuredH="28" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Save</text>
+      </controlProperties>
+    </control>
+    <control controlID="327" controlTypeID="com.balsamiq.mockups::SubTitle" x="85" y="400" w="-1" h="-1" measuredW="56" measuredH="40" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Logo</text>
+      </controlProperties>
+    </control>
+    <control controlID="328" controlTypeID="com.balsamiq.mockups::Image" x="85" y="467" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="13" locked="false" isInGroup="-1"/>
+    <control controlID="329" controlTypeID="com.balsamiq.mockups::Paragraph" x="208" y="467" w="544" h="94" measuredW="200" measuredH="140" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20brand%20logo%20is%20displayed%20as%20the%20icon%20for%20your%20custom%20branded%20IM%20client.%20Any%20square%20image%20can%20be%20used%20as%20the%20brand%20logo.</text>
+      </controlProperties>
+    </control>
+    <control controlID="330" controlTypeID="com.balsamiq.mockups::TextInput" x="85" y="576" w="460" h="-1" measuredW="100" measuredH="29" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Choose%20file...</text>
+      </controlProperties>
+    </control>
+    <control controlID="323" controlTypeID="com.balsamiq.mockups::LinkBar" x="85" y="185" w="-1" h="-1" measuredW="235" measuredH="25" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Brand%20Information%2C%20Plans%20%26%20Pricing</text>
+        <selectedIndex>0</selectedIndex>
+      </controlProperties>
+    </control>
+    <control controlID="324" controlTypeID="com.balsamiq.mockups::SubTitle" x="85" y="240" w="-1" h="-1" measuredW="70" measuredH="40" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="331" controlTypeID="com.balsamiq.mockups::Button" x="560" y="576" w="-1" h="-1" measuredW="66" measuredH="28" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Submit</text>
+      </controlProperties>
+    </control>
+    <control controlID="332" controlTypeID="com.balsamiq.mockups::Paragraph" x="85" y="280" w="667" h="45" measuredW="200" measuredH="140" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20brand%20name%20is%20shown%20in%20the%20user%20interface%20of%20the%20application%20and%20the%20installer.%20Choose%20a%20brand%20name%20which%20identifies%20the%20application%2C%20for%20example%20%22MyCompany%20Messenger%22.</text>
+      </controlProperties>
+    </control>
+    <control controlID="253" controlTypeID="com.balsamiq.mockups::Image" x="85" y="69" w="55" h="53" measuredW="77" measuredH="79" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="254" controlTypeID="com.balsamiq.mockups::SubTitle" x="157" y="78" w="-1" h="-1" measuredW="217" measuredH="40" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Goliath%20Messenger</text>
+      </controlProperties>
+    </control>
+    <control controlID="255" controlTypeID="com.balsamiq.mockups::Icon" x="398" y="92" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>DownTriangleIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
