@@ -75,17 +75,14 @@
 <node CREATED="1279750686131" ID="Freemind_Link_1070464393" MODIFIED="1279750700943" TEXT="Form: Email address, password"/>
 </node>
 <node CREATED="1279748589797" ID="Freemind_Link_1388466505" MODIFIED="1279748593921" TEXT="Password Reset">
-<node CREATED="1279749215597" ID="Freemind_Link_1698352332" MODIFIED="1279749320717" TEXT="Form: Enter email address to send reset email">
+<node CREATED="1279749215597" ID="Freemind_Link_1698352332" MODIFIED="1279752311505" TEXT="Form: Enter email address to send reset email">
 <icon BUILTIN="pencil"/>
-<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1279749263021" ID="Freemind_Link_558717512" MODIFIED="1279749320719" TEXT="Notification: Password reset email has been sent">
+<node CREATED="1279749263021" ID="Freemind_Link_558717512" MODIFIED="1279752569488" TEXT="Notification: Password reset email has been sent">
 <icon BUILTIN="pencil"/>
-<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1279749298846" ID="Freemind_Link_1368739472" MODIFIED="1279749320721" TEXT="Form: Enter new password">
+<node CREATED="1279749298846" ID="Freemind_Link_1368739472" MODIFIED="1279752947801" TEXT="Form: Enter new password">
 <icon BUILTIN="pencil"/>
-<icon BUILTIN="button_cancel"/>
 </node>
 </node>
 </node>
