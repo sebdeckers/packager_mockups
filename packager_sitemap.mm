@@ -69,9 +69,8 @@
 </node>
 <node CREATED="1279737391718" ID="Freemind_Link_1429942508" MODIFIED="1279737395938" TEXT="Enter password"/>
 </node>
-<node CREATED="1279750681116" ID="Freemind_Link_44685270" MODIFIED="1279750706818" TEXT="Sign In">
+<node CREATED="1279750681116" ID="Freemind_Link_44685270" MODIFIED="1279754362280" TEXT="Sign In">
 <icon BUILTIN="pencil"/>
-<icon BUILTIN="button_cancel"/>
 <node CREATED="1279750686131" ID="Freemind_Link_1070464393" MODIFIED="1279750700943" TEXT="Form: Email address, password"/>
 </node>
 <node CREATED="1279748589797" ID="Freemind_Link_1388466505" MODIFIED="1279748593921" TEXT="Password Reset">
