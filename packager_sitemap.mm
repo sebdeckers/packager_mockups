@@ -191,9 +191,8 @@
 <node CREATED="1279747591581" ID="Freemind_Link_598531410" MODIFIED="1279747597698" TEXT="Edit brand name"/>
 <node CREATED="1279747598413" ID="Freemind_Link_878083502" MODIFIED="1279747601865" TEXT="Edit brand logo"/>
 </node>
-<node CREATED="1279748487485" ID="Freemind_Link_1548330907" MODIFIED="1279748521820" TEXT="Goodbye">
+<node CREATED="1279748487485" ID="Freemind_Link_1548330907" MODIFIED="1279755135151" TEXT="Goodbye">
 <icon BUILTIN="pencil"/>
-<icon BUILTIN="button_cancel"/>
 <node CREATED="1279748494341" ID="Freemind_Link_1554089456" MODIFIED="1279748516001" TEXT="Shown when unsubscribing"/>
 </node>
 </node>

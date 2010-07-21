@@ -1,0 +1,25 @@
+<mockup version="1.0" skin="sketch" measuredW="1184" measuredH="406" mockupW="1109" mockupH="389">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="85" y="7" w="-1" h="-1" measuredW="334" measuredH="62" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pandion%20Packager</text>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::SubTitle" x="327" y="115" w="-1" h="-1" measuredW="106" measuredH="40" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Goodbye%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::Paragraph" x="327" y="170" w="568" h="226" measuredW="200" measuredH="140" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Your%20subscription%20has%20been%20cancelled.%0A%20%0AThank%20you%20for%20using%20Pandion%20Packager.%20Feel%20free%20to%20return%20any%20time%2C%20and%20continue%20to%20manage%20your%20branded%20IM%20client.%0A%20%0APlease%20let%20us%20know%20on%20the%20%5Bforum%5D%20what%20you%20think%20about%20Pandion%20Packager.%0A%20%0A%5BBack%20to%20the%20home%20page%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::HRule" x="65" y="87" w="1109" h="-1" measuredW="100" measuredH="5" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Label" x="1120" y="44" w="-1" h="-1" measuredW="34" measuredH="25" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5BHelp%5D</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
