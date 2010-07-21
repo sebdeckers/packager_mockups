@@ -198,9 +198,8 @@
 <node CREATED="1279748494341" ID="Freemind_Link_1554089456" MODIFIED="1279748516001" TEXT="Shown when unsubscribing"/>
 </node>
 </node>
-<node CREATED="1279737354974" ID="Freemind_Link_1500883774" MODIFIED="1279737437919" TEXT="Account details">
+<node CREATED="1279737354974" ID="Freemind_Link_1500883774" MODIFIED="1279753888056" TEXT="Account details">
 <icon BUILTIN="pencil"/>
-<icon BUILTIN="button_cancel"/>
 <node CREATED="1279737365614" ID="Freemind_Link_393188025" MODIFIED="1279737376746" TEXT="Change first/last name"/>
 <node CREATED="1279737370566" ID="Freemind_Link_1268711862" MODIFIED="1279737373746" TEXT="Change email address"/>
 <node CREATED="1279737379382" ID="Freemind_Link_1321119039" MODIFIED="1279737382050" TEXT="Change password"/>

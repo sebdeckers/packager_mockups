@@ -12,93 +12,88 @@
         <text>Pandion%20Packager</text>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="1044" y="22" w="-1" h="-1" measuredW="110" measuredH="25" zOrder="2" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Hello%20*Jim%20Raynor*</text>
-      </controlProperties>
-    </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::Link" x="1058" y="43" w="-1" h="-1" measuredW="61" measuredH="25" zOrder="3" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Sign%20Out</text>
-      </controlProperties>
-    </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::Link" x="1123" y="43" w="-1" h="-1" measuredW="34" measuredH="25" zOrder="4" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Help</text>
-      </controlProperties>
-    </control>
-    <control controlID="349" controlTypeID="com.balsamiq.mockups::Label" x="1048" y="208" w="-1" h="-1" measuredW="106" measuredH="25" zOrder="20" locked="false" isInGroup="-1">
+    <control controlID="349" controlTypeID="com.balsamiq.mockups::Label" x="1048" y="208" w="-1" h="-1" measuredW="106" measuredH="25" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%5BXLS%5D%20%20%5BCSV%5D%20%20%5BXML%5D</text>
       </controlProperties>
     </control>
-    <control controlID="327" controlTypeID="com.balsamiq.mockups::Label" x="85" y="277" w="-1" h="-1" measuredW="87" measuredH="25" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="327" controlTypeID="com.balsamiq.mockups::Label" x="85" y="277" w="-1" h="-1" measuredW="87" measuredH="25" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Active%20Users</text>
       </controlProperties>
     </control>
-    <control controlID="328" controlTypeID="com.balsamiq.mockups::Label" x="85" y="574" w="-1" h="-1" measuredW="120" measuredH="25" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="328" controlTypeID="com.balsamiq.mockups::Label" x="85" y="574" w="-1" h="-1" measuredW="120" measuredH="25" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Software%20Versions</text>
       </controlProperties>
     </control>
-    <control controlID="323" controlTypeID="com.balsamiq.mockups::PieChart" x="85" y="614" w="-1" h="-1" measuredW="180" measuredH="180" zOrder="8" locked="false" isInGroup="-1"/>
-    <control controlID="324" controlTypeID="com.balsamiq.mockups::LineChart" x="85" y="317" w="1069" h="206" measuredW="187" measuredH="175" zOrder="9" locked="false" isInGroup="-1"/>
-    <control controlID="334" controlTypeID="com.balsamiq.mockups::PieChart" x="715" y="623" w="-1" h="-1" measuredW="180" measuredH="180" zOrder="12" locked="false" isInGroup="-1"/>
-    <control controlID="335" controlTypeID="com.balsamiq.mockups::Label" x="700" y="583" w="-1" h="-1" measuredW="98" measuredH="25" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="353" controlTypeID="com.balsamiq.mockups::Label" x="993" y="44" w="-1" h="-1" measuredW="161" measuredH="25" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5BSign%20Out%5D%20%20%5BAccount%5D%20%20%5BHelp%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="323" controlTypeID="com.balsamiq.mockups::PieChart" x="85" y="614" w="-1" h="-1" measuredW="180" measuredH="180" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="324" controlTypeID="com.balsamiq.mockups::LineChart" x="85" y="317" w="1069" h="206" measuredW="187" measuredH="175" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="334" controlTypeID="com.balsamiq.mockups::PieChart" x="715" y="623" w="-1" h="-1" measuredW="180" measuredH="180" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="335" controlTypeID="com.balsamiq.mockups::Label" x="700" y="583" w="-1" h="-1" measuredW="98" measuredH="25" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Update%20Tracks</text>
       </controlProperties>
     </control>
-    <control controlID="336" controlTypeID="com.balsamiq.mockups::Paragraph" x="930" y="678" w="199" h="70" measuredW="200" measuredH="140" zOrder="14" locked="false" isInGroup="-1">
+    <control controlID="336" controlTypeID="com.balsamiq.mockups::Paragraph" x="930" y="678" w="199" h="70" measuredW="200" measuredH="140" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Stable%09%09%0989%25%0ABeta%09%09%09%095%25%0ADevelopment%09%096%25</text>
       </controlProperties>
     </control>
-    <control controlID="351" controlTypeID="com.balsamiq.mockups::Label" x="927" y="209" w="-1" h="-1" measuredW="117" measuredH="25" zOrder="21" locked="false" isInGroup="-1">
+    <control controlID="352" controlTypeID="com.balsamiq.mockups::Label" x="1044" y="19" w="-1" h="-1" measuredW="110" measuredH="25" zOrder="19" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Export%20Raw%20Data%3A</text>
+        <text>Hello%20*Jim%20Raynor*</text>
       </controlProperties>
     </control>
-    <control controlID="338" controlTypeID="com.balsamiq.mockups::Paragraph" x="300" y="660" w="262" h="87" measuredW="200" measuredH="140" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="338" controlTypeID="com.balsamiq.mockups::Paragraph" x="300" y="660" w="262" h="87" measuredW="200" measuredH="140" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Goliath%20Messenger%201.5.134%09%0943%25%0AGoliath%20Messenger%201.4.87%09%0934%25%0AGoliath%20Messenger%201.3.5%09%0912%25%0AGoliath%20Messenger%201.5.57%09%0911%25</text>
       </controlProperties>
     </control>
-    <control controlID="339" controlTypeID="com.balsamiq.mockups::Label" x="1076" y="292" w="-1" h="-1" measuredW="78" measuredH="25" zOrder="16" locked="false" isInGroup="-1">
+    <control controlID="339" controlTypeID="com.balsamiq.mockups::Label" x="1076" y="292" w="-1" h="-1" measuredW="78" measuredH="25" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%5C-%5C-%20Updates</text>
         <state>disabled</state>
         <align>right</align>
       </controlProperties>
     </control>
-    <control controlID="340" controlTypeID="com.balsamiq.mockups::Label" x="996" y="292" w="-1" h="-1" measuredW="62" measuredH="25" zOrder="17" locked="false" isInGroup="-1">
+    <control controlID="340" controlTypeID="com.balsamiq.mockups::Label" x="996" y="292" w="-1" h="-1" measuredW="62" measuredH="25" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%5C-%5C-%20Users</text>
         <align>right</align>
       </controlProperties>
     </control>
-    <control controlID="347" controlTypeID="com.balsamiq.mockups::ComboBox" x="178" y="207" w="-1" h="-1" measuredW="220" measuredH="25" zOrder="18" locked="false" isInGroup="-1">
+    <control controlID="351" controlTypeID="com.balsamiq.mockups::Label" x="927" y="209" w="-1" h="-1" measuredW="117" measuredH="25" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Export%20Raw%20Data%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="347" controlTypeID="com.balsamiq.mockups::ComboBox" x="178" y="207" w="-1" h="-1" measuredW="220" measuredH="25" zOrder="15" locked="false" isInGroup="-1">
       <controlProperties>
         <text>1%20June%202010%20%5C-%2030%20June%202010</text>
       </controlProperties>
     </control>
-    <control controlID="348" controlTypeID="com.balsamiq.mockups::Label" x="85" y="208" w="-1" h="-1" measuredW="82" measuredH="25" zOrder="19" locked="false" isInGroup="-1">
+    <control controlID="348" controlTypeID="com.balsamiq.mockups::Label" x="85" y="208" w="-1" h="-1" measuredW="82" measuredH="25" zOrder="16" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Date%20Range%3A</text>
       </controlProperties>
     </control>
-    <control controlID="253" controlTypeID="com.balsamiq.mockups::Image" x="85" y="69" w="55" h="53" measuredW="77" measuredH="79" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="253" controlTypeID="com.balsamiq.mockups::Image" x="85" y="69" w="55" h="53" measuredW="77" measuredH="79" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="254" controlTypeID="com.balsamiq.mockups::SubTitle" x="157" y="78" w="-1" h="-1" measuredW="217" measuredH="40" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="254" controlTypeID="com.balsamiq.mockups::SubTitle" x="157" y="78" w="-1" h="-1" measuredW="217" measuredH="40" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Goliath%20Messenger</text>
       </controlProperties>
     </control>
-    <control controlID="255" controlTypeID="com.balsamiq.mockups::Icon" x="398" y="92" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="255" controlTypeID="com.balsamiq.mockups::Icon" x="398" y="92" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>DownTriangleIcon%7Cxsmall</icon>
       </controlProperties>
