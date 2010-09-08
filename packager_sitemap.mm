@@ -1,14 +1,13 @@
-<map version="0.8.1">
+<map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1279728757669" ID="Freemind_Link_216645198" MODIFIED="1279736083662" STYLE="bubble" TEXT="Packager">
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1279729064123" ID="_" MODIFIED="1279736083657" POSITION="right" TEXT="Public Site" VSHIFT="-1">
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1279729131970" ID="Freemind_Link_1768767349" MODIFIED="1279737476148" TEXT="Home" VSHIFT="-11">
+<node CREATED="1279729131970" ID="Freemind_Link_1768767349" MODIFIED="1283922125331" TEXT="Home" VSHIFT="-11">
 <font NAME="SansSerif" SIZE="12"/>
 <icon BUILTIN="gohome"/>
 <icon BUILTIN="pencil"/>
-<icon BUILTIN="button_cancel"/>
 <node CREATED="1279735897063" ID="Freemind_Link_1518440115" MODIFIED="1279736513248" TEXT="Title+slogan">
 <font NAME="SansSerif" SIZE="12"/>
 </node>
